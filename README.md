@@ -1,3 +1,9 @@
+官网上更新比较快，建议看一遍官网。
+https://baomidou.com/pages/24112f/
+https://baomidou.com/pages/56bac0/
+
+
+
 # MybatisPlus
 lagou-mybatis-plus
 是mybatis + mybatisplus 、 spring + mybatisplus
